@@ -1,4 +1,4 @@
-mongoose-gridfs
+mongoose-gridfs-promise[WIP]
 ===============
 
 [![Build Status](https://travis-ci.org/lykmapipo/mongoose-gridfs.svg?branch=master)](https://travis-ci.org/lykmapipo/mongoose-gridfs)
